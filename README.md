@@ -69,6 +69,6 @@ src="https://img.shields.io/badge/Service-Xray-success.svg">  <img src= "https:/
 *   V2ray
 
 <p align="center">
-  <a><img src="https://img.shields.io/badge/Copyright%20©-HAMBA ALLAH%20AutoScriptVPN%202022.%20All%20rights%20reserved...-blueviolet.svg" style="max-width:200%;">
+  <a><img src="https://img.shields.io/badge/Copyright%20©-HAMBA ALLAH%20AutoScriptVPN%202025.%20All%20rights%20reserved...-blueviolet.svg" style="max-width:200%;">
     </p>
    </p>
